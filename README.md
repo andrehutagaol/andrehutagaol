@@ -1,16 +1,14 @@
-## Hi, I’m Andre! I’m a Data Scientist with experience in tech companies like Grab and Shopee. I enjoy building machine learning models and data driven solutions that improve business performance. I’m currently pursuing my M.S. in Analytics at Georgia Tech.
+# Hi, I’m Andre!
+### Data • Analytics • Machine Learning
 
-<!--
-**andrehutagaol/andrehutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x5em9zenR2Z3RmNnF6cWFvZ3g3b2p6emJ6Z2M5cmE5bXdxa2N5diZlcD12MV9naWZzX3NlYXJjaCZjdT1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrehutagaol&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehutagaol&layout=compact&theme=tokyonight" height="160" />
+</p>
