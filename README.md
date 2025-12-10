@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Andre! I’m a Data Scientist with experience in tech companies like Grab and Shopee. I enjoy building machine learning models and data driven solutions that improve business performance. I’m currently pursuing my M.S. in Analytics at Georgia Tech.
 
 <!--
 **andrehutagaol/andrehutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
