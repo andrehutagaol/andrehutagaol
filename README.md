@@ -4,4 +4,4 @@ I'm a data scientist with experience improving business performance through data
 
 | Project | Description |
 |---------|-------------|
-| 🔍 **Hybrid Vector Search with Metadata Synopses** | Efficiently searches products using **text embeddings** + **metadata filters**. Achieves **baseline-level recall** with **10–30× faster query times** on the Amazon Product Dataset. [Repo](https://github.com/andrehutagaol/hybrid_search) |
+| 🔍 **Hybrid Vector Search with Metadata Synopses** | Imagine searching for a product on Amazon and you want something specific: a *"tumbler with a floral motif"* , priced $10–$30, and highly rated . This project solves filtered product search efficiently by combining text embeddings and metadata filters. It achieves baseline-level recall and runs 10% faster than baseline [project repo here](https://github.com/andrehutagaol/hybrid_search) |
