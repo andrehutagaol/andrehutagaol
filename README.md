@@ -22,6 +22,6 @@ A conversational movie recommendation system built using **few-shot prompting wi
 
 ### 🗂️ Pivot-Based Translation for Low-Resource Languages
 This project explores practical strategies for improving translation quality in low-resource language pairs. Implements pivot-based translation between Nepali ↔ Sinhala using English as the intermediary language. Built with the NLLB-200 model and the FLORES-200 dataset, the system translates Nepali → English → Sinhala (and vice versa) and evaluates performance with SacreBLEU, ChrF, and BLEURT metrics. 
-🔗 Project Repo: [https://github.com/andrehutagaol/conversational-movie-recommender](https://github.com/andrehutagaol/low-resource-language-translation)
+🔗 Project Repo: https://github.com/andrehutagaol/low-resource-language-translation
 
 ---
