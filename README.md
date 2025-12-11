@@ -1,6 +1,6 @@
 # Hi, I’m Andre!  
 
-I'm a data scientist with experience improving business performance through data at tech companies.
+I'm a data scientist with 5-year experience improving business performance through data at tech companies.
 
 | Project | Description |
 |---------|-------------|
