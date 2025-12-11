@@ -12,7 +12,7 @@ Imagine searching for a product on Amazon — for example, a *"tumbler with a fl
 
 ## 🤖 LLM Projects
 
-**Conversational Movie Recommender**  
+### Conversational Movie Recommender 
 A conversational movie recommendation system built using **few-shot prompting with LLaMA 3** on the TG-ReDial dataset. Instead of directly outputting a movie title, the model learns to **embed recommendations naturally within a dialogue**, taking into account user profiles, conversation topics, history, and ground-truth target movies.  
 🔗 Project Repo: https://github.com/andrehutagaol/conversational-movie-recommender
 
