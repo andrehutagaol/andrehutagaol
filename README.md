@@ -4,7 +4,7 @@ I'm a data scientist with 5 years of experience helping tech companies improve b
 
 ## 🔎 Database Projects
 
-### <mark style="background-color: #d3e5ff;">Hybrid Vector Search with Metadata Synopses</mark>
+**<mark style="background-color: #d3e5ff;">Hybrid Vector Search with Metadata Synopses</mark>**
 Imagine searching for a product on Amazon — for example, a *"tumbler with a floral motif"* priced $10–$30 and highly rated. This project builds a **hybrid vector search system** that combines **text embeddings** with **metadata filters** to handle this type of filtered product search efficiently. The system achieves **baseline-level recall** while running **10% faster** than standard approaches.  
 🔗 Project Repo: https://github.com/andrehutagaol/hybrid_search
 
