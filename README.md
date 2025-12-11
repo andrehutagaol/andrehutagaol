@@ -14,7 +14,7 @@ I'm a data scientist with 5 years of experience helping tech companies improve b
 
 ## 🤖 LLM Projects
 
-**Movie Recommendation with Prompt-Based Methods**  
+**Conversational Movie Recommender**  
 **Description:** A conversational movie recommendation system built using **few-shot prompting with LLaMA 3** on the TG-ReDial dataset. Instead of directly outputting a movie title, the model learns to **embed recommendations naturally within a dialogue**, taking into account user profiles, conversation topics, history, and ground-truth target movies.  
 🔗 Project Repo: https://github.com/andrehutagaol/conversational-movie-recommender
 
