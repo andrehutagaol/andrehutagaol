@@ -2,8 +2,6 @@
 
 I'm a data scientist with 5 years of experience helping tech companies improve business performance with data.
 
-## 📂 Projects I've Done So Far
-
 ## 🔎 Database Projects
 
 **Hybrid Vector Search with Metadata Synopses**  
