@@ -24,4 +24,9 @@ A conversational movie recommendation system built using **few-shot prompting wi
 This project explores practical strategies for improving translation quality in low-resource language pairs. Implements pivot-based translation between Nepali ↔ Sinhala using English as the intermediary language. Built with the NLLB-200 model and the FLORES-200 dataset, the system translates Nepali → English → Sinhala (and vice versa) and evaluates performance with SacreBLEU, ChrF, and BLEURT metrics. 
 🔗 Project Repo: https://github.com/andrehutagaol/low-resource-language-translation
 
+## ML/DL Projects
+### 🗂️ Outage Prediction for Telecommunications Networks
+Built machine learning models to predict network outages using 10M+ customer interaction records from a telecom provider. Trained and evaluated logistic regression and neural network models on short-term (7-day) and long-term (90-day) windows, achieving up to 0.94 AUC and 97% accuracy. Identified operational signals such as work order volume and rolling activity spikes as the strongest predictors.
+🔗 Project Repo: https://github.com/andrehutagaol/outage-prediction
+
 ---
